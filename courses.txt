@@ -1,4 +1,5 @@
 DevOps Master Course
 AWS Master Course
 Gen AI
+Google Cloud Platform
 Service Now Developer
