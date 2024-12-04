@@ -4,3 +4,4 @@ Gen AI
 Google Cloud Platform
 Service Now Developer
 DevSecOps
+Git is used in every project
