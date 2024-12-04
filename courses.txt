@@ -5,3 +5,4 @@ Google Cloud Platform
 Service Now Developer
 DevSecOps
 Git is used in every project
+Git is very powerful tool
