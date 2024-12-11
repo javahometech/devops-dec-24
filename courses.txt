@@ -6,3 +6,4 @@ Service Now Developer
 DevSecOps
 Git is used in every project
 Git is very powerful tool
+This change is made by you (remote)
